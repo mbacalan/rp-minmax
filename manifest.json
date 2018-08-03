@@ -6,8 +6,9 @@
     "en": "Removes race and culture attribute bonuses, increases spendable attribute points and maximum attribute cap"
   },
   "Author": "Penemue",
-  "ModVersion": "1.0",
+  "ModVersion": "2.0",
   "SupportedGameVersion": {
-    "Min": "1.2.0"
+    "Min": "1.2.0",
+    "Max": "2.0.0"
   }
 }
