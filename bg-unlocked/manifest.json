@@ -9,6 +9,6 @@
   "ModVersion": "2.0",
   "SupportedGameVersion": {
     "Min": "1.2.0",
-    "Max": "2.0.0"
+    "Max": "2"
   }
 }
