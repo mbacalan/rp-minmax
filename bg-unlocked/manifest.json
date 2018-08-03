@@ -1,0 +1,13 @@
+{
+  "Title": {
+    "en": "RP & MinMax - BG's Unlocked"
+  },
+  "Description": {
+    "en": "Removes race and culture attribute bonuses, increases spendable attribute points and maximum attribute cap, unlocks all backgrounds"
+  },
+  "Author": "Penemue",
+  "ModVersion": "1.0",
+  "SupportedGameVersion": {
+    "Min": "1.2.0"
+  }
+}

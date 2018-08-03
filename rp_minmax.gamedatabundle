@@ -1,0 +1,395 @@
+{
+  "GameDataObjects": [
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "Aedyr",
+      "ID": "c8038e79-c612-45ec-be2a-ff428785e5d5",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 331,
+          "SummaryText": 628,
+          "DescriptionText": 507,
+          "Icon": "gui/icons/gamesystems/culture_aedyr_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "66f33e44-2d42-4a57-bbc4-873545401036",
+            "8892ecd9-3a3d-476f-a092-e595841a02ed",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "a4f3bfbc-39f8-4301-a5d7-ada1044c7459",
+            "140481e5-2ef8-41ca-a2b5-a6a95671e3b9"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "DeadfireArchipelago",
+      "ID": "7093880b-7527-4087-a764-d6613701a025",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 332,
+          "SummaryText": 629,
+          "DescriptionText": 508,
+          "Icon": "gui/icons/gamesystems/culture_deadfirearchipelago_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "a4f3bfbc-39f8-4301-a5d7-ada1044c7459",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "7cfa6c66-568d-4906-8057-83e7974b3ae0",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "a66fd205-ccb6-4b1d-97d8-4d5aaeccd6bf",
+            "140481e5-2ef8-41ca-a2b5-a6a95671e3b9"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "IxamitlPlains",
+      "ID": "589e4e1d-6b55-45f8-a2fd-c42eeb2b2c18",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 333,
+          "SummaryText": 630,
+          "DescriptionText": 509,
+          "Icon": "gui/icons/gamesystems/culture_ixamitlplains_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "8892ecd9-3a3d-476f-a092-e595841a02ed",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "1b49fbd6-97ad-44bc-8d0b-8a8ef3989c6b",
+            "5f6f1b32-aa73-4152-a1aa-af6259abf9ee"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "OldVailia",
+      "ID": "5bb77c17-fbb2-489f-bdae-ecd9ebeae467",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 334,
+          "SummaryText": 631,
+          "DescriptionText": 510,
+          "Icon": "gui/icons/gamesystems/culture_oldvailia_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "80cdca20-91dc-4fb0-82ef-cf21df9ce2d9",
+            "66f33e44-2d42-4a57-bbc4-873545401036",
+            "8892ecd9-3a3d-476f-a092-e595841a02ed",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "140481e5-2ef8-41ca-a2b5-a6a95671e3b9"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "Rauatai",
+      "ID": "59a4c801-24af-4fd8-bb6e-39c5c0b4ca5d",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 335,
+          "SummaryText": 632,
+          "DescriptionText": 511,
+          "Icon": "gui/icons/gamesystems/culture_rauatai_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "8892ecd9-3a3d-476f-a092-e595841a02ed",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "5f6f1b32-aa73-4152-a1aa-af6259abf9ee",
+            "140481e5-2ef8-41ca-a2b5-a6a95671e3b9"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "TheLivingLands",
+      "ID": "3886897f-93f4-44a9-902f-6dcc012ae114",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 532,
+          "SummaryText": 633,
+          "DescriptionText": 513,
+          "Icon": "gui/icons/gamesystems/culture_livinglands_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "66f33e44-2d42-4a57-bbc4-873545401036",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "7cfa6c66-568d-4906-8057-83e7974b3ae0",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "0c794fe0-a7e0-4901-bb6c-e5d7c1f955a2",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "4d422623-6b4d-434d-bee0-6d56b694744c"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.CultureGameData, Assembly-CSharp",
+      "DebugName": "TheWhiteThatWends",
+      "ID": "80658ad7-bcbf-435f-b7a5-522fe629004e",
+      "Components": [
+        {
+          "$type": "Game.GameData.CultureComponent, Assembly-CSharp",
+          "DisplayName": 533,
+          "SummaryText": 634,
+          "DescriptionText": 514,
+          "Icon": "gui/icons/gamesystems/culture_whitewends_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationBackgroundsIDs": [
+            "a7b302e1-033d-4d12-9a90-9047588ac622",
+            "f15f2b6a-69f1-4697-9695-9525da25684e",
+            "7cfa6c66-568d-4906-8057-83e7974b3ae0",
+            "412de08a-27b2-4470-8427-8ca6c40ce7ab",
+            "180ec9d0-dac8-4832-9387-469b3a12de8d",
+            "68379d53-6b7d-49d3-b79b-b8af99539b8c",
+            "ad48837e-d60a-406e-bb42-e15cb8b8e895"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Aumaua",
+      "ID": "5ea84750-17c7-419b-8beb-c121c5d68c55",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Aumaua",
+          "DisplayName": 85,
+          "DisplayNamePlural": 91,
+          "SummaryText": 817,
+          "DescriptionText": 480,
+          "Icon": "gui/icons/gamesystems/race_aumaua_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "48208f19-7f64-46f9-a68e-fbcb596b89eb",
+            "630497f5-0fad-49a0-9562-d8e6c916cb4c"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Dwarf",
+      "ID": "1f60b08e-1966-4bb6-8cdb-757294dcc18a",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Dwarf",
+          "DisplayName": 84,
+          "DisplayNamePlural": 90,
+          "SummaryText": 814,
+          "DescriptionText": 477,
+          "Icon": "gui/icons/gamesystems/race_dwarves_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "50782c81-e684-49c2-a6fe-b11ee9aa79f6",
+            "ccc70801-1026-4d4d-9516-e10dd5f8ff80"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Elf",
+      "ID": "c3520c0a-dff9-45b1-9ee0-d905c933b62b",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Elf",
+          "DisplayName": 83,
+          "DisplayNamePlural": 89,
+          "SummaryText": 813,
+          "DescriptionText": 476,
+          "Icon": "gui/icons/gamesystems/race_elves_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "9cafd4cc-5a37-4892-9299-1169694af336",
+            "0a482c35-8a18-40c7-bbfd-b845fbaf2b7c"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Godlike",
+      "ID": "b85d4148-b922-43a2-831c-f189c0b3569d",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Godlike",
+          "DisplayName": 87,
+          "DisplayNamePlural": 93,
+          "SummaryText": 815,
+          "DescriptionText": 478,
+          "Icon": "gui/icons/gamesystems/race_godlike_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "3ab1b5b4-e289-406c-92b1-2da0b5ab0c4c",
+            "a8844ddf-4bb4-4d4b-adb8-5f02b328e54d",
+            "cf5367ab-66ad-486b-96e3-08b601896291",
+            "fb59121b-ffdc-4b73-901b-6a7950daa49b"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Human",
+      "ID": "74e606b7-022a-40af-858d-83dd90a98e62",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Human",
+          "DisplayName": 82,
+          "DisplayNamePlural": 88,
+          "SummaryText": 812,
+          "DescriptionText": 475,
+          "Icon": "gui/icons/gamesystems/race_human_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "6cdda9a5-05d4-406a-92b2-2fd3f69f5403",
+            "4dce15be-bf9f-44a3-8346-fa68f5d05f22",
+            "ac03ba95-bb39-44a6-9ab0-63e5a3012170"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.RaceGameData, Assembly-CSharp",
+      "DebugName": "Orlan",
+      "ID": "25308722-9480-477a-94cf-d40b6fd0886e",
+      "Components": [
+        {
+          "$type": "Game.GameData.RaceComponent, Assembly-CSharp",
+          "Type": "Orlan",
+          "DisplayName": 86,
+          "DisplayNamePlural": 92,
+          "SummaryText": 816,
+          "DescriptionText": 479,
+          "Icon": "gui/icons/gamesystems/race_orlan_l.png",
+          "Resolve": 0,
+          "Might": 0,
+          "Dexterity": 0,
+          "Intellect": 0,
+          "Constitution": 0,
+          "Perception": 0,
+          "CharacterCreationSubracesIDs": [
+            "d30649ac-35e0-487b-8736-66c692b10293",
+            "d3b8e86c-b88a-4e81-ae5f-13ceae3e14a6"
+          ]
+        }
+      ]
+    },
+    {
+      "$type": "Game.GameData.ProgressionTableManagerGameData, Assembly-CSharp",
+      "DebugName": "ProgressionTableManager",
+      "ID": "2be32291-5324-4410-9e26-a67d2d20b716",
+      "Components": [
+        {
+          "$type": "Game.GameData.ProgressionTableManagerComponent, Assembly-CSharp",
+          "RacialProgressionTableID": "b2afaada-c140-42c3-9f02-2f919e45b49d",
+          "ProficienciesProgressionTableID": "a01f1324-4484-4548-a2b3-602a28dca631",
+          "CharacterCreationAttributePoints": 18,
+          "CharacterCreationMaxAttributeGulf": 16,
+          "CharacterCreationAttributeMaximum": 20
+        }
+      ]
+    }
+  ]
+}
